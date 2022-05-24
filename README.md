@@ -1,2 +1,1 @@
-Architecture Diagram
-![image](https://user-images.githubusercontent.com/62277795/170025681-728ebb60-8f9f-4466-ad99-b54afbc43c70.png)
+Architecture Diagram![Main Architectture](https://user-images.githubusercontent.com/62277795/170026595-9fa164a0-0987-4e04-883a-ce43b4d66b05.jpg)
