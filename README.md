@@ -1,3 +1,3 @@
 # Microservices
-![Screenshot 2021-11-30 at 12 32 51](https://user-images.githubusercontent.com/40702606/144061535-7a42e85b-59d6-4f7f-9c35-18a48b49e6de.png)
 
+![diagrams-Main Architectture](https://user-images.githubusercontent.com/62277795/170027892-68736223-81ac-495e-abf2-6d00f4e8f9e2.jpg)
